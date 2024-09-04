@@ -1,4 +1,4 @@
-;;Generated from file generate-44789.asp from the ASP competition 2015
+;; Generated from file generate-44789.asp from the ASP competition 2015
 ;;
 ;; +xx+xx+xx+xx+xx+xx+xx+xx+xx+xx+xx+xx+xx+xx+xx+xx+
 ;; x  |  |  |  |  |  |  |  |  |  |  |  |R2|  |  |  x
